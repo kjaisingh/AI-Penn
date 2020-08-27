@@ -12,23 +12,23 @@ libraries such as Sklearn and Keras/Tensorflow.
 * Introduce and apply data preprocessing techniques.
 * Dataset: Social media advertisment success prediction (classification).
 
-## Session 3
+### Session 3
 * Overview of Decision Tree and Random Forest algorithms.
 * Introduce and apply data visualization concepts.
 * Dataset: Credit default prediction (classification).
 
-## Session 4
+### Session 4
 * Overview of standard Neural Networks.
 * Introduce data normalization concepts (like Dropout).
 * Dataset: Predicting outreach/shares of news articles (regression).
 
-## Session 5
+### Session 5
 * Overview of Long-Short Term Networks (LSTMs).
 * Introduce time-series data.
 * Introduce using APIs to get live data.
 * Dataset: Predicting stock prices using historical data (regression).
 
-## Session 6
+### Session 6
 * Overview of Convolutional Neural Networks (LSTMs).
 * Introduce web scraping.
 * Dataset: Differentiating between two types of objects, eg. Football vs Basketball - comparison choice is up to students (classification).
