@@ -5,17 +5,17 @@ libraries such as Sklearn and Keras/Tensorflow.
 ### Session 1
 * Slightly more in-depth overview of Logistic Regression (than normal).
 * Explanation of Linear Regression (similar concept).
-* Dataset: Breast cancer diagnosis (classification).
+* Dataset: Social media advertisment success prediction (classification).
 
 ### Session 2
 * Overview of SVMs and K-Nearest Neighbours algorithm.
 * Introduce and apply data preprocessing techniques.
-* Dataset: Social media advertisment success prediction (classification).
+* Dataset: Credit default prediction (classification).
 
 ### Session 3
 * Overview of Decision Tree and Random Forest algorithms.
 * Introduce and apply data visualization concepts.
-* Dataset: Credit default prediction (classification).
+* Dataset: XXX (classification).
 
 ### Session 4
 * Overview of standard Neural Networks.
