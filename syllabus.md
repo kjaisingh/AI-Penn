@@ -4,8 +4,9 @@ libraries such as Sklearn and Keras/Tensorflow.
 
 ### Session 1
 * Slightly more in-depth overview of Logistic Regression (than normal).
-* Explanation of Linear Regression (similar concept).
+* Programming walk-through.
 * Dataset: Social media advertisment success prediction (classification).
+* High-level explanation of Linear Regression (similar concept).
 
 ### Session 2
 * Overview of SVMs and K-Nearest Neighbours algorithm.
