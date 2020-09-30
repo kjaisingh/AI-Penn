@@ -13,7 +13,7 @@ A repository to store all the source code and learning resources for AI@Penn's t
 * Introduce and apply data visualization concepts.
 * Programming Session: Credit default prediction (classification).
 
-### Session 3 (Joanna + Larry)
+### Session 3 (Joanna + Larry + Pranav)
 * Overview of Linear Regression.
 * Introduce and apply data preprocessing techniques.
 * Programming Session: Real estate valuation (regression).
