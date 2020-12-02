@@ -23,13 +23,17 @@ A repository to store all the source code and learning resources for AI@Penn's t
 * Introduce data normalization concepts (like Dropout).
 * Programming Session: Predicting outreach/shares of news articles (regression).
 
-### Session 5
+### Session 5 (Michael + Wyatt)
+* Overview of Recommender Systems.
+* Programming Session: Predicting movie recommendations based on reviews.
+
+### Session 6
 * Overview of Long-Short Term Networks (LSTMs).
 * Introduce time-series data.
 * Introduce using APIs to get live data.
 * Programming Session: Predicting stock prices using historical data (time series).
 
-### Session 6
+### Session 7
 * Overview of Convolutional Neural Networks (LSTMs).
 * Introduce web scraping.
 * Programming Session: Differentiating between two types of objects, eg. Football vs Basketball - comparison choice is up to students (computer vision).
